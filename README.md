@@ -38,7 +38,6 @@
   - [4️⃣ Booting](#4️⃣-booting)
 - [📜 Command Reference](#-command-reference)
 - [🛡️ Security Governance](#️-security-governance)
-- [📈 Roadmap \& Future](#-roadmap--future)
 - [🤝 Contributing](#-contributing)
 - [⚖️ License](#️-license)
 
@@ -132,13 +131,6 @@ python backend/main.py
 - **Admin Validation**: Every command undergoes a three-layer permission check.
 - **Regex Enforcement**: Config variables are validated against Telegram's API patterns.
 - **No Inline Comments**: Ensuring a professional, distraction-free codebase.
-
-## 📈 Roadmap & Future
-
-Explore the full [ROADMAP.md](docs/ROADMAP.md) for details on:
-- ⚡ **Asynchronous Batching**: Faster historical cleanup.
-- 💾 **Persistence Layer**: Support for multi-group configurations.
-- ⚛️ **Atomic Frontend**: A web dashboard for visual bot management.
 
 ## 🤝 Contributing
 
